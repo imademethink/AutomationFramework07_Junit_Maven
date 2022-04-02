@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b507d11-71ee-4884-897f-aeede20b84ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sNAek15kEDY6Nm0BYAwKtW3FYr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ecommercefurniture" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TonyStark\Framework07_Junit_Maven\ecommercebeauty\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pkg_testrunner" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TonyStark\Framework07_Junit_Maven\ecommercebeauty\src\test" />
+      <recent name="D:\TonyStark\Framework07_Junit_Maven\ecommercebeauty\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.myExecutor">
+    <configuration name="TestRunnerFramework" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ecommercebeauty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pkg_testrunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pkg_testrunner" />
+      <option name="MAIN_CLASS_NAME" value="pkg_testrunner.TestRunnerFramework" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ecommercebeauty" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="ecommercebeauty_profile" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-P" />
+                <option value="UAT_PROFILE" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom_2.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="myExecutor" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestRunnerFramework" />
+      <item itemvalue="Maven.ecommercebeauty" />
+      <item itemvalue="Maven.myExecutor" />
+      <item itemvalue="Maven.ecommercebeauty_profile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunnerFramework" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b507d11-71ee-4884-897f-aeede20b84ff" name="Default Changelist" comment="" />
+      <created>1591440677831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591440677831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestRunnerFramework - 2020.06.06 at 18h 36m 43s.xml">
+      <configuration name="TestRunnerFramework" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunnerFramework - 2020.06.06 at 18h 37m 23s.xml">
+      <configuration name="TestRunnerFramework" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunnerFramework - 2020.06.06 at 18h 40m 16s.xml">
+      <configuration name="TestRunnerFramework" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunnerFramework - 2020.06.06 at 18h 40m 55s.xml">
+      <configuration name="TestRunnerFramework" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="108" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620788441033">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="108" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738@0.30.1366.738" timestamp="1620788441033" />
+    <state x="463" y="153" key="FileChooserDialogImpl" timestamp="1620786770279">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="463" y="153" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1620786770279" />
+    <state width="1323" height="471" key="GridCell.Tab.0.bottom" timestamp="1620707149421">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="471" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1620707149421" />
+    <state width="1323" height="471" key="GridCell.Tab.0.center" timestamp="1620707149421">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="471" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1620707149421" />
+    <state width="1323" height="471" key="GridCell.Tab.0.left" timestamp="1620707149421">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="471" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1620707149421" />
+    <state width="1323" height="471" key="GridCell.Tab.0.right" timestamp="1620707149421">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="471" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1620707149421" />
+    <state x="389" y="132" width="587" height="534" key="find.popup" timestamp="1620787455672">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="389" y="132" width="587" height="534" key="find.popup/0.30.1366.738@0.30.1366.738" timestamp="1620787455672" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

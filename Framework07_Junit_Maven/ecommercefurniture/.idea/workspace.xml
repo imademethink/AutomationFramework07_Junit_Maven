@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80a302e5-c7ac-48a5-ad26-84e8e705ef4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>resources</find>
+      <find>sqlite</find>
+      <find>MimeMessage</find>
+      <find>getTransport</find>
+      <find>sendMessage</find>
+      <find>toAddress</find>
+      <find>mimeMessage</find>
+      <find>System.getProperty</find>
+      <find>deew</find>
+      <find>param_email_body</find>
+      <find>resou</find>
+      <find>objectMimeType</find>
+      <find>html</find>
+      <find>port</find>
+      <find>sReportFileContent</find>
+      <find>atta</find>
+      <find>user.</find>
+      <find>HTMLDataSource</find>
+      <find>getInputStream</find>
+      <find>getOutputStream</find>
+    </findStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="60" />
+    <option name="y" value="75" />
+    <option name="width" value="1705" />
+    <option name="height" value="925" />
+  </component>
+  <component name="ProjectId" id="1sPuuqmxetBym7q8ejYyEjYGZpB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TonyStark\Framework07_Junit_Maven\ecommercefurniture\src\test\resources\externalData" />
+      <recent name="D:\TonyStark\Framework07_Junit_Maven\ecommercefurniture\src\test\java" />
+      <recent name="D:\TonyStark\Framework07_Junit_Maven\ecommercefurniture\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.ecommercefurniture">
+    <configuration name="SendEmailHTML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkg_utility.SendEmailHTML" />
+      <module name="ecommercefurniture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pkg_utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendFileEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkg_utility.SendFileEmail" />
+      <module name="ecommercefurniture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pkg_utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleEmailSender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkg_utility.SimpleEmailSender" />
+      <module name="ecommercefurniture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pkg_utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunnerFramework_WideExtendedOption" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ecommercefurniture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pkg_testrunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pkg_testrunner" />
+      <option name="MAIN_CLASS_NAME" value="pkg_testrunner.TestRunnerFramework_WideExtendedOption" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ecommercefurniture" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SendEmailHTML" />
+      <item itemvalue="Application.SendFileEmail" />
+      <item itemvalue="Application.SimpleEmailSender" />
+      <item itemvalue="JUnit.TestRunnerFramework_WideExtendedOption" />
+      <item itemvalue="Maven.ecommercefurniture" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleEmailSender" />
+        <item itemvalue="Application.SendEmailHTML" />
+        <item itemvalue="Application.SendFileEmail" />
+        <item itemvalue="JUnit.TestRunnerFramework_WideExtendedOption" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80a302e5-c7ac-48a5-ad26-84e8e705ef4d" name="Default Changelist" comment="" />
+      <created>1591892783396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591892783396</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestRunnerFramework_WideExtendedOption - 2020.06.11 at 22h 14m 03s.xml">
+      <configuration name="TestRunnerFramework_WideExtendedOption" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunnerFramework_WideExtendedOption - 2020.06.11 at 22h 15m 35s.xml">
+      <configuration name="TestRunnerFramework_WideExtendedOption" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunnerFramework_WideExtendedOption - 2020.06.11 at 22h 18m 06s.xml">
+      <configuration name="TestRunnerFramework_WideExtendedOption" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunnerFramework_WideExtendedOption - 2020.06.11 at 22h 19m 36s.xml">
+      <configuration name="TestRunnerFramework_WideExtendedOption" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunnerFramework_WideExtendedOption - 2020.06.11 at 22h 20m 06s.xml">
+      <configuration name="TestRunnerFramework_WideExtendedOption" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunnerFramework_WideExtendedOption - 2020.06.11 at 22h 21m 59s.xml">
+      <configuration name="TestRunnerFramework_WideExtendedOption" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunnerFramework_WideExtendedOption - 2020.06.11 at 22h 22m 31s.xml">
+      <configuration name="TestRunnerFramework_WideExtendedOption" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunnerFramework_WideExtendedOption - 2020.06.11 at 22h 23m 31s.xml">
+      <configuration name="TestRunnerFramework_WideExtendedOption" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunnerFramework_WideExtendedOption - 2020.06.11 at 22h 26m 16s.xml">
+      <configuration name="TestRunnerFramework_WideExtendedOption" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>mimeMessage.getAllRecipients()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

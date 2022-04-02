@@ -1,0 +1,131 @@
+2021-02-20 11:14:08 FATAL Utility_General                                   :155 - 
+  ____       _                 _                    _____       _                 
+ |  _ \     | |               (_)                  |  __ \     (_)                
+ | |_) | ___| |__   __ ___   ___  ___  _   _ _ __  | |  | |_ __ ___   _____ _ __  
+ |  _ < / _ \ '_ \ / _` \ \ / / |/ _ \| | | | '__| | |  | | '__| \ \ / / _ \ '_ \ 
+ | |_) |  __/ | | | (_| |\ V /| | (_) | |_| | |    | |__| | |  | |\ V /  __/ | | |
+ |____/ \___|_| |_|\__,_| \_/ |_|\___/ \__,_|_|    |_____/|_|  |_| \_/ \___|_| |_|
+
+2021-02-20 11:14:11 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:17 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:17 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario Login happy path case
+2021-02-20 11:14:17 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:19 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:19 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario Login happy path case
+2021-02-20 11:14:19 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:21 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:21 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario Login un-happy path case
+2021-02-20 11:14:21 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:23 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:23 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario Login un-happy path case
+2021-02-20 11:14:23 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:24 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:25 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario dummy test2
+2021-02-20 11:14:25 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:26 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:26 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario dummy test2
+2021-02-20 11:14:26 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:28 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:28 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario User registration with provided data
+2021-02-20 11:14:28 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:30 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:30 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario User registration with provided data
+2021-02-20 11:14:30 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:32 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:32 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario User searches for valid E-commerce items
+2021-02-20 11:14:32 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:33 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:33 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario User searches for valid E-commerce items
+2021-02-20 11:14:33 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:35 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:35 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario User searches for invalid E-commerce items
+2021-02-20 11:14:35 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:37 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:37 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario User searches for invalid E-commerce items
+2021-02-20 11:14:37 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:39 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:39 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario User journey upto checkout stage
+2021-02-20 11:14:39 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:41 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:41 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario User journey upto checkout stage
+2021-02-20 11:14:41 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:42 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:42 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario Custom page object - forget password
+2021-02-20 11:14:42 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:44 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:44 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario Custom page object - forget password
+2021-02-20 11:14:44 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:46 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:46 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario Custom page object - pop up
+2021-02-20 11:14:46 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:47 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:47 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario Custom page object - pop up
+2021-02-20 11:14:47 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:51 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:51 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario Custom page object - window handling
+2021-02-20 11:14:51 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:14:53 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:14:53 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario Custom page object - window handling
+2021-02-20 11:14:53 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:17:11 FATAL Utility_General                                   :155 - 
+  ____       _                 _                    _____       _                 
+ |  _ \     | |               (_)                  |  __ \     (_)                
+ | |_) | ___| |__   __ ___   ___  ___  _   _ _ __  | |  | |_ __ ___   _____ _ __  
+ |  _ < / _ \ '_ \ / _` \ \ / / |/ _ \| | | | '__| | |  | | '__| \ \ / / _ \ '_ \ 
+ | |_) |  __/ | | | (_| |\ V /| | (_) | |_| | |    | |__| | |  | |\ V /  __/ | | |
+ |____/ \___|_| |_|\__,_| \_/ |_|\___/ \__,_|_|    |_____/|_|  |_| \_/ \___|_| |_|
+
+2021-02-20 11:17:13 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:17:18 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:17:18 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario User journey upto checkout stage
+2021-02-20 11:17:18 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:17:20 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:17:20 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario User journey upto checkout stage
+2021-02-20 11:17:20 INFO  Utility_General                                   :102 - Log: Html report generated
+2021-02-20 11:18:02 FATAL Utility_General                                   :155 - 
+  ____       _                 _                    _____       _                 
+ |  _ \     | |               (_)                  |  __ \     (_)                
+ | |_) | ___| |__   __ ___   ___  ___  _   _ _ __  | |  | |_ __ ___   _____ _ __  
+ |  _ < / _ \ '_ \ / _` \ \ / / |/ _ \| | | | '__| | |  | | '__| \ \ / / _ \ '_ \ 
+ | |_) |  __/ | | | (_| |\ V /| | (_) | |_| | |    | |__| | |  | |\ V /  __/ | | |
+ |____/ \___|_| |_|\__,_| \_/ |_|\___/ \__,_|_|    |_____/|_|  |_| \_/ \___|_| |_|
+
+2021-02-20 11:18:05 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:18:10 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:18:10 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario User journey upto checkout stage
+2021-02-20 11:18:10 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:18:13 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:18:13 INFO  HooksHelper                                       :40 - Log: Attaching screenshot for failed scenario User journey upto checkout stage
+2021-02-20 11:18:13 INFO  Utility_General                                   :102 - Log: Html report generated
+2021-02-20 11:18:23 INFO  Utility_General                                   :111 - 
+Log: Please make sure to disable 2 step login for your GMAIL
+
+2021-02-20 11:18:23 INFO  Utility_General                                   :112 - 
+Log: Please make sure to enable Less secure app login from your GMAIL
+
+2021-02-20 11:18:26 INFO  Utility_General                                   :150 - Log: Sending report via email failed
+2021-02-20 11:21:09 FATAL Utility_General                                   :155 - 
+  ____       _                 _                    _____       _                 
+ |  _ \     | |               (_)                  |  __ \     (_)                
+ | |_) | ___| |__   __ ___   ___  ___  _   _ _ __  | |  | |_ __ ___   _____ _ __  
+ |  _ < / _ \ '_ \ / _` \ \ / / |/ _ \| | | | '__| | |  | | '__| \ \ / / _ \ '_ \ 
+ | |_) |  __/ | | | (_| |\ V /| | (_) | |_| | |    | |__| | |  | |\ V /  __/ | | |
+ |____/ \___|_| |_|\__,_| \_/ |_|\___/ \__,_|_|    |_____/|_|  |_| \_/ \___|_| |_|
+
+2021-02-20 11:21:12 INFO  HooksHelper                                       :27 - Log: Before every Scenario hook
+2021-02-20 11:21:17 INFO  GlobalObjects                                     :137 - Log: Chrome browser is launched
+2021-02-20 11:21:18 INFO  StepDef_Ecom                                      :17 - Log: Navigating to login section http://automationpractice.com/index.php
+
+2021-02-20 11:21:31 INFO  StepDef_Ecom                                      :70 - Log: Navigating to home http://automationpractice.com/index.php
+
+2021-02-20 11:21:45 INFO  Page_Checkout                                     :47 - Log: Checkout validation successful
+2021-02-20 11:21:53 INFO  HooksHelper                                       :36 - Log: After the every Scenario hook
+2021-02-20 11:21:55 INFO  HooksHelper                                       :57 - Log: Chrome browser is closed
+2021-02-20 11:21:55 INFO  Utility_General                                   :102 - Log: Html report generated
+2021-02-20 11:22:04 INFO  Utility_General                                   :111 - 
+Log: Please make sure to disable 2 step login for your GMAIL
+
+2021-02-20 11:22:04 INFO  Utility_General                                   :112 - 
+Log: Please make sure to enable Less secure app login from your GMAIL
+
+2021-02-20 11:22:07 INFO  Utility_General                                   :150 - Log: Sending report via email failed
